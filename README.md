@@ -4,7 +4,7 @@
 The RBI Economic Dashboard is an interactive data visualization project developed using Microsoft Power BI. It provides insights into India's economic indicators through interactive visuals, KPI cards, charts, and year/month filters.
 
 ## Dashboard Preview
-![RBI Economic Dashboard](Dashboard.png)
+![RBI Economic Dashboard](dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 - Foreign Exchange Reserves (USD Billion)
